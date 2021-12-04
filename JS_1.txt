@@ -1,0 +1,4 @@
+1.Установить версию LST NodeJs --- выполнено
+2.Инициализировать package.json --- npm install npm@latest -g
+3.Установить пакет fs-extra глобально --- npm install -g fs-extra 
+4.Установите пакет fs-extra глобально с помощью --save-dev --- npm install -g fs-extra --save-dev
